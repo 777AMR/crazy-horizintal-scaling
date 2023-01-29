@@ -1,0 +1,10 @@
+---
+
+spring:
+  rabbitmq:
+    host: localhost
+    username: guest
+    password: guest
+  redis:
+    host: localhost
+    port: 6397
